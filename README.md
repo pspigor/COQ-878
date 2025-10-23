@@ -8,4 +8,4 @@ Instructor:   Prof. D.Sc. Elvis Soares
 
 Course title: Computational Quantum Chemistry (COQ-878)
 
-Intitution:   COPPE Chemical Engineering program at Federal University of Rio de Janeiro (UFRJ)
+Institution:  COPPE Chemical Engineering program at Federal University of Rio de Janeiro (UFRJ)
